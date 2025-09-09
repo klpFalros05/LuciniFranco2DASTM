@@ -10,8 +10,7 @@ namespace Tp2FrancoLucni
 {
     public class Verificador
     {
-        private string connectionString = "Data Source=localhost;Initial Catalog=Tp2DasCrud;Integrated Security=True" +
-            "user= FrancoL";
+        private string connectionString = "Data Source=LAPTOP-IQ1OBU3N\\SQLEXPRESS;Initial Catalog=Tp2;Integrated Security=True;Persist Security Info=False;Pooling=False;Multiple Active Result Sets=False;Encrypt=False;";
 
         public bool ok()
         {
