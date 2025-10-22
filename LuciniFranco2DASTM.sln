@@ -17,6 +17,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Practica Parcial Ado", "Pra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica Ado", "Practica Ado\Practica Ado.csproj", "{69660A7D-CFCE-4A25-944E-6353F5E00497}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tp Entity 4", "Tp Entity 4", "{2A2CA6EC-00D8-46A1-B030-72B66434E1F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistema de Gestion de Biblioteca", "Sistema de Gestion de Biblioteca\Sistema de Gestion de Biblioteca.csproj", "{25CE22DC-7757-40C2-B9C8-5E26C8220A2E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,10 @@ Global
 		{69660A7D-CFCE-4A25-944E-6353F5E00497}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69660A7D-CFCE-4A25-944E-6353F5E00497}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69660A7D-CFCE-4A25-944E-6353F5E00497}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25CE22DC-7757-40C2-B9C8-5E26C8220A2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25CE22DC-7757-40C2-B9C8-5E26C8220A2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25CE22DC-7757-40C2-B9C8-5E26C8220A2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25CE22DC-7757-40C2-B9C8-5E26C8220A2E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -48,6 +56,7 @@ Global
 		{583D9630-6FD3-45B2-A400-9A8DA7444706} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{8D7AA560-E8E7-41BE-8CCD-ACE76DFEBA51} = {16D76101-C2DB-49F8-9D58-4C8A35DCE4C5}
 		{69660A7D-CFCE-4A25-944E-6353F5E00497} = {7501E864-D65D-4C02-B7CC-70A48CC69FD4}
+		{25CE22DC-7757-40C2-B9C8-5E26C8220A2E} = {2A2CA6EC-00D8-46A1-B030-72B66434E1F9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {54932B3F-25C2-4DEA-9260-32D099195AD2}
